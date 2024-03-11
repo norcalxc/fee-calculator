@@ -1,0 +1,25 @@
+body {
+  font-family: sans-serif;
+  margin: 40px;
+}
+
+fieldset {
+  border: 1px solid #ccc;
+  padding: 15px;
+  margin-bottom: 20px;
+}
+
+legend {
+  font-weight: bold;
+  padding: 5px;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+#membershipFee {
+  font-weight: bold;
+  margin-top: 15px;
+}
